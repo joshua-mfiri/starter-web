@@ -6,4 +6,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-Adding mor estuff in README to remove identical during pull request
+Adding more estuff in README to remove identical during pull request
+
+Adding somme more stuff to readme still.
